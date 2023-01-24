@@ -1,0 +1,72 @@
+{
+	"header": {
+		"generatorPublicKey": "",
+		"height": 0,
+		"previousBlockID": "",
+		"reward": "0",
+		"signature": "",
+		"timestamp": 1674484695,
+		"transactionRoot": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+		"version": 0,
+		"asset": {
+			"initRounds": 3,
+			"initDelegates": ["4e643b96ec5a42c76d939cf35d52af900a7f8d26"],
+			"accounts": [
+				{
+					"token": {
+						"balance": "200000000000"
+					},
+					"sequence": {
+						"nonce": "0"
+					},
+					"keys": {
+						"mandatoryKeys": [],
+						"optionalKeys": [],
+						"numberOfSignatures": 0
+					},
+					"dpos": {
+						"delegate": {
+							"username": "delegate_0",
+							"pomHeights": [],
+							"consecutiveMissedBlocks": 0,
+							"lastForgedHeight": 0,
+							"isBanned": false,
+							"totalVotesReceived": "0"
+						},
+						"sentVotes": [],
+						"unlocking": []
+					},
+					"address": "4e643b96ec5a42c76d939cf35d52af900a7f8d26"
+				},
+				{
+					"token": {
+						"balance": "200000000000"
+					},
+					"sequence": {
+						"nonce": "0"
+					},
+					"keys": {
+						"mandatoryKeys": [],
+						"optionalKeys": [],
+						"numberOfSignatures": 0
+					},
+					"dpos": {
+						"delegate": {
+							"username": "",
+							"pomHeights": [],
+							"consecutiveMissedBlocks": 0,
+							"lastForgedHeight": 0,
+							"isBanned": false,
+							"totalVotesReceived": "0"
+						},
+						"sentVotes": [],
+						"unlocking": []
+					},
+					"address": "f3a3d31ee864a6af70c0ce19f89e3afb37598b38"
+				}
+			]
+		},
+		"id": "d30d5d4a35fda84722edba2120beef553381037278c09b066007e633d431da50"
+	},
+	"payload": []
+}
