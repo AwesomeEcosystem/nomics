@@ -1,1 +1,0 @@
-alias nomics="./bin/run"
